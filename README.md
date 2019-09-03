@@ -1,2 +1,4 @@
 # Smart-Contract-Audits
-Ethereum smart contracts audit reports done for Callisto Network
+Ethereum Smart Contract audit reports done as Callisto Network security engineer.
+
+
